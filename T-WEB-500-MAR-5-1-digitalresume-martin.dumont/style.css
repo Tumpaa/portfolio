@@ -1,0 +1,145 @@
+header {
+    background-color: rgba(194, 51, 26, 100%);
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom: 160px;
+}
+
+.bu {
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.footercard {
+    background-color:white;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.proj {
+    height: 190px;
+}
+
+button {
+    border: none;
+    background-color: rgba(194, 51, 26, 100%);
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 15px;
+    margin-bottom: 20px;
+    margin-top: 2px;
+    cursor: pointer;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.bu:hover {
+    color: slategray;
+}
+
+.profile {
+    font-size: 30px;
+    font-weight: 26px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.lf {
+    font-size: 30px;
+    text-align: center;
+}
+
+.tpres {
+    font-family: "Times New Roman", Times, serif;
+    background-color:  rgba(194, 51, 26, 5%);
+    border-radius: 7px;
+    font-size: 19px;
+}
+
+.devweb {
+    text-align: center;
+}
+
+.pres {
+    text-align: center;
+    background-color:  rgba(194, 51, 26, 5%);
+    border-radius: 7px;
+}
+.contactH {
+    font-size: 20px;
+    color:#d9dede;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(194, 51, 26, 100%);
+}
+
+.links {
+    margin-top: 40px;
+    color:#d9dede;
+}
+
+.pt {
+    border-radius: 9px;
+    font-size: 20px;
+    text-decoration: underline rgba(194, 51, 26, 60%);
+    font-family: "Times New Roman", Times, serif;
+}
+
+.aboutme {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin: 0 auto;
+    width: 65%;
+}
+
+.ae {
+    font-size: 30px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    text-align: center;
+    border-radius: 9px;
+    background-color: rgba(194, 51, 26, 100%);
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.expt {
+    font-size: 25px;
+    font-weight: bold;
+    color: #434E5E;
+    text-decoration: underline;
+}
+
+li {
+    margin-left: 25px;
+}
+
+footer {
+    background-color: #434E5E;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.infos {
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+
+.profilef {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
